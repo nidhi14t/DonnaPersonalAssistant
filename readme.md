@@ -1,9 +1,9 @@
 # Donna : Task Manager
 
-# Project Overview
+# Overview
 This is a web application to assist us schedule different tasks with distinct priorities in a typical week so we can focus on the activity itself rather than when to start and finish it.
 
-# Project Description
+# Description
 The core idea behind creating another new task planner web application is that, despite having almost all of the information on the priorities of daily chores, we seem to be unable to decide when to begin a task, causing us to be more frustrated and wearier at the end of the day, causing us to not complete or even procrastinate vital jobs.
 For this reason, we are creating this application which will schedule the tasks for us so that we don't waste time thinking about the timing of the task.
 
